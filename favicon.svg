@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)" />
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dy="0.34em"
+    font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+    font-weight="700"
+    font-size="232"
+    letter-spacing="-8"
+    fill="#ffffff"
+  >XJ</text>
+</svg>
